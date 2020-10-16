@@ -1,0 +1,30 @@
+[
+  {
+    "genero": 1,
+    "id": 1,
+    "title": "Vestido",
+    "url": "https://www.dhresource.com/0x0/f2/albu/g9/M01/F2/7B/rBVaWFyizcaARJB9AAJAA6IdRRA543.jpg",
+    "piezas": 10
+  },
+  {
+    "genero": 1,
+    "id": 2,
+    "title": "Chamarra",
+    "url": "https://studiofmx.vteximg.com.br/arquivos/ids/270217-1000-1071/chaquetas-tierra-s075703-1-1.jpg?v=637118690060100000",
+    "piezas": 10
+  },
+  {
+    "genero": 1,
+    "id": 3,
+    "title": "Pantalón",
+    "url": "https://ae01.alicdn.com/kf/H2b6b877958254542b56b38f555d95525Q/Pantalones-vaqueros-ajustados-el-sticos-de-cintura-alta-2019-ropa-para-mujer-pantalones-Sexy-de-talla.jpg_q50.jpg",
+    "piezas": 50
+  },
+  {
+    "genero": 1,
+    "id": 5,
+    "title": "Blusa",
+    "url": "https://ae01.alicdn.com/kf/HTB1a43tHFXXXXXPXVXXq6xXFXXXE/Nueva-ropa-mujer-blusas-camisas-de-gasa-volante-Bat-manga-blusa-o-cuello-Tops-blanco-azul.jpg",
+    "piezas": 100
+  }
+]
